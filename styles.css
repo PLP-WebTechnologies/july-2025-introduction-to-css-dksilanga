@@ -1,0 +1,38 @@
+/* General Page Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+.site-header {
+    background-color: #1f201f;
+    color: rgb(21, 196, 44);
+    text-align: center;
+    padding: 20px;
+}
+
+/* Footer Styling */
+.site-footer {
+    background-color: #333;
+    color: rgb(224, 25, 25);
+    text-align: center;
+    padding: 15px;
+    margin-top: 20px;
+}
+
+/* Content Box Styling - Demonstrating Box Model */
+.content-box {
+    background-color: white;
+    border: 2px solid #3712db;   /* Border */
+    padding: 20px;            /* Padding */
+    margin: 20px;             /* Margin */
+    border-radius: 5px;
+}
+
+/* Example of Class Selector */
+.content-box h2 {
+    color: #c826ce;
+}
